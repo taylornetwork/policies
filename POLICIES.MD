@@ -5,7 +5,7 @@
 This document's purpose is outline the policies "we" (TaylorNetwork) use with all clients, accounts, and invoices. 
 This document and the policies contained herein may be changed at any time without any notice. 
 
-## Potential Footnotes
+## Invoice Potential Footnotes
 
 <sup>†</sup> See [Third-Party Fees](#third-party-fees)
 
