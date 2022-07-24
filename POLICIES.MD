@@ -15,6 +15,10 @@ This document and the policies contained herein may be changed at any time witho
 
 <sup>(2)</sup> See [Late Fees](#late-fees)
 
+# Payments
+
+Payments can be made online by Credit Card or Bank Account by following the instructions on the invoice that was sent. 
+Alternatively, we also accept payment via INTERAC e-Transfer. If you would like to pay using this method, see the included directions on the bottom of your invoice, be sure to include the invoice number in the messages section when you send payment. 
 
 # Definitions
 
