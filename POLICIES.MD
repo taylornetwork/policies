@@ -1,11 +1,28 @@
-# Policies for TaylorNetwork Invoices
+# TaylorNetwork Policies
 
-## Purpose 
+# Document Purpose 
 
 This document's purpose is outline the policies "we" (TaylorNetwork) use with all clients, accounts, and invoices. 
 This document and the policies contained herein may be changed at any time without any notice. 
 
-## Invoice Potential Footnotes
+# Table of Contents
+
+1. [Invoice Potential Footnotes](#invoice-potential-footnotes)
+2. [Payments](#payments)
+3. [Definitions](#definitions)
+    1. [Third-Party Fees](#third-party-fees)
+    2. [Balance Forward](#balance-forward)
+    3. [Late Fees](#late-fees)
+    4. [Non-Payment](#non-payment)
+    5. [Account Suspension](#account-suspension)
+    6. [Account Termination](#account-termination)
+4. [Our Guarantee](#our-guarantee) 
+    1. [Custom Designed Services](#custom-designed-web-services)
+    2. [Managed Web Services](#managed-web-services-recurring)
+    3. [Services using Third-Party Tools](#services-using-third-party-tools)
+    4. [Client Training](#client-training)
+
+# Invoice Potential Footnotes
 
 <sup>†</sup> See [Third-Party Fees](#third-party-fees)
 
@@ -124,3 +141,28 @@ In the event your account is terminated, we will
 
 After 30 days, if the Final Invoice remains unpaid, we will send it to collections, and/or take action via a claims court.
 
+# Our Guarantee
+
+We want to ensure you are satisfied with our work, if there are any problems, let us know and we'll work to make it right.
+
+## Custom Designed Web Services
+
+All custom designed web services we guarantee for 30 days from the date of completion. If there are any issues that arise, or changes<sup>*</sup> that need to be made during this time we'll handle that, free of charge.
+
+<sup>*</sup> Only small changes to design that are within the scope of the original project. Anything out of scope can be done but will be billed at either an hourly rate, or submitted through another project proposal.
+
+## Managed Web Services (Recurring)
+
+We'll ensure your web services are running smoothly (uptime to be determined by the provider's SLA), and make sure that they stay up to date with all security updates. Any issues that arise, or very small changes that need to be made, we'll handle<sup>*</sup>. This to remain in effect as long as your account remains with us and your payments stay up to date.
+
+<sup>*</sup> Up to a maximum of 4 hours per billing period, free of charge, any additional time spent is billed hourly.
+
+## Services using Third-Party Tools
+
+For any design work done by us using third-party tools (Shopify, Wix, Square, etc.), we guarantee for 30 days from the invoice date. Any issues that arise, or small changes<sup>*</sup> to design, we'll handle free of charge.
+
+<sup>*</sup> Small changes are defined as changes that take less than 10% of the Estimated Hours to Complete from your project proposal. Any changes that would take longer to handle, can be done for an additional charge.
+
+## Client Training
+
+If you were billed for client training, we will remain available to assist with any questions for up to 30 days after invoice date. We will always be available via email to answer questions after the 30 days, but response time may be longer, and if additional training sessions are requested, they will be billed separately. 
