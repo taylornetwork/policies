@@ -1,5 +1,7 @@
 # TaylorNetwork Policies
 
+> This has been replaced by [policies.taylornetwork.ca](https://policies.taylornetwork.ca)
+
 # Document Purpose 
 
 This document's purpose is outline the policies "we" (TaylorNetwork) use with all clients, accounts, and invoices. 
